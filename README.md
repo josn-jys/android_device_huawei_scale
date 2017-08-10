@@ -1,5 +1,6 @@
+Thanks：@ giorgio130 @CarlosArriagaCM @Runner85sx @GuaiYiHu
 
-Device configuration for Huawei Honor Y6.
+Device configuration for Huawei Honor 4A.
 =====================================
 
 Basic   | Spec Sheet
